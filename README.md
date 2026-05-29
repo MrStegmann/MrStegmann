@@ -54,9 +54,6 @@ motto: "Build. Learn. Improve. Repeat."
 
 ### Cloud & Tools
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
 ---
