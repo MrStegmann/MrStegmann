@@ -60,14 +60,6 @@ I am a passionate **Full Stack Developer** with over 3 years of hands-on experie
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrstegmann&show_icons=true&theme=nord&count_private=true)
-
-![Patrick's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrstegmann&theme=nord)
-
----
-
 ### 🌐 Connect with Me
 
 - 💼 **LinkedIn:** [/in/patrick-j-stegmann](https://www.linkedin.com/in/patrick-j-stegmann/)
