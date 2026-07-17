@@ -62,10 +62,9 @@ I am a passionate **Full Stack Developer** with over 3 years of hands-on experie
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrstegmann&show_icons=true&theme=nord&count_private=true" alt="Patrick's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrstegmann&theme=nord" alt="Patrick's GitHub Streak" width="48%" />
-</p>
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrstegmann&show_icons=true&theme=nord&count_private=true)
+
+![Patrick's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrstegmann&theme=nord)
 
 ---
 
