@@ -1,8 +1,8 @@
 # Hi there! I'm Patrick Jiménez 👋
 
-### **Full Stack & AI Engineer** 🚀
+### **Software Developer** 🚀
 
-I am a passionate **Full Stack Developer** with over 3 years of hands-on experience building robust web applications, scalable backends, and distributed systems. While my foundation is deeply rooted in **JavaScript/TypeScript (Node.js/NestJS)** and **Linux environments**, I also specialize in modern backend architectures (**Java/Spring Boot**) and **AI Engineering**—integrating AI agents to craft intelligent, responsive, and highly decoupled systems.
+I am a passionate **Software Developer** with over 3 years of hands-on experience building robust web applications, scalable backends, and distributed systems. While my foundation is deeply rooted in **JavaScript/TypeScript (Node.js/NestJS)** and **Linux environments**, I also specialize in modern backend architectures (**Java/Spring Boot**) and **AI Engineering**—integrating AI agents to craft intelligent, responsive, and highly decoupled systems.
 
 ---
 
