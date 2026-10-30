@@ -28,7 +28,7 @@ I am a passionate **Software Developer** with over 3 years of hands-on experienc
 ### 🌐 Connect with Me
 
 - 💼 **LinkedIn:** [/in/patrick-j-stegmann](https://www.linkedin.com/in/patrick-j-stegmann/)
-- 🌐 **Portfolio:** [patrickjs.vercel.app](https://patrickjs.vercel.app/)
+- 🌐 **Portfolio:** [mrstegmann.vercel.app](https://mrstegmann.vercel.app/)
 - 📧 **Email:** pjstegmann@outlook.es
 - 📍 **Location:** Málaga, Spain 🇪🇸
 
