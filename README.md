@@ -35,7 +35,6 @@ I am a passionate **Software Developer** with a strong focus on full-stack web a
 ### **[Basket Club Manager (bcmApp)](https://github.com/MrStegmann/bcmApp)**
 *Cross-platform mobile application and backend ecosystem for grassroots basketball club management.*
 - **Frontend / Mobile:** React Native, Expo, NativeWind (Tailwind CSS), TypeScript, Zustand, SQLite (offline-first local persistence).
-- **Backend / Architecture:** NestJS, Hexagonal Architecture, Domain-Driven Design (DDD), MongoDB / PostgreSQL.
 - **Problem & Solution:** Eliminates fragmented spreadsheets and paper records by centralizing club operations, scheduling, attendance tracking, and tactical planning into a robust, offline-capable mobile and server solution.
 
 
