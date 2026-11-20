@@ -1,6 +1,6 @@
 # Hi there! I'm Francisco Patrick Jiménez Stegmann 👋
 
-### **Software Developer & Full Stack Engineer** | Based in Málaga, Spain
+### **Software Developer**
 
 ---
 
